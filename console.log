@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<he<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AutomotiveBusiness",
+  "name": "DeeJays Mobile Detail LLC",
+  "description": "DeeJays Mobile Detail LLC offers professional car detailing services in Dallas, Texas. Book your appointment now for an exceptional car cleaning experience.",
+  "telephone": "+14693891550",
+  "email": "darr1@deejaysmobile.net",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Main St",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75201",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7761838,
+    "longitude": -96.7978917
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ],
+  "url": "https://www.deejaysmobile.net",
+  "sameAs": [
+    "https://www.facebook.com/DeeJays-Mobile-Detail",
+    "https://www.instagram.com/deejays_mobile"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "50"
+  }
+}
+</script>
+ad>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DeeJays Mobile Detail LLC offers professional car detailing services in Dallas, Texas. Book your appointment now for an exceptional car cleaning experience.">
+    <meta name="keywords" content="car detailing, mobile car detailing, car cleaning, Dallas, Texas">
+    <title>DeeJays Mobile Detail LLC - Mobile Car Detailing in Dallas, Texas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#booking">Booking</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>DeeJays Mobile Detail LLC</h1>
+            <p>Welcome to DeeJays Mobile Detail LLC, your premier car detailing service provider in Dallas, Texas. We bring the best car cleaning experience right to your doorstep!</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <!--Interior Detailing
+a. Vacuuming and steam cleaning
+b. Stain removal and shampooing
+c. Leather cleaning and conditioning
+d. Dashboard, console, and trim cleaning
+e. Deodorizing and odor elimination
+f. Window and mirror cleaning
+
+Exterior Detailing
+a. Hand washing and drying
+b. Clay bar treatment
+c. Polishing and waxing
+d. Paint sealant application
+e. Tire dressing and wheel cleaning
+f. Headlight restoration
+
+Paint Correction
+a. Swirl mark removal
+b. Scratch and oxidation removal
+c. Compounding and polishing
+d. Paint touch-ups
+
+Ceramic Coating
+a. Paint preparation
+b. Application of ceramic coating
+c. Infrared curing (if applicable)
+
+Engine Detailing
+a. Degreasing and cleaning
+b. Dressing and protection
+
+Glass Treatment
+a. Glass polishing
+b. Water repellent coating
+
+Plastic and Rubber Restoration
+a. Cleaning and conditioning
+b. UV protection
+
+Specialty Services
+a. Pet hair removal
+b. Tree sap and tar removal
+c. Overspray and fallout removal
+
+Fleet Services
+a. Regular maintenance detailing
+b. Corporate and commercial vehicle detailing
+
+Maintenance Packages
+a. Monthly or quarterly detailing plans
+b. Customized service packages -->
+        </section>
+
+        <section id="pricing">
+            <h2>Pricing</h2>
+            <!--Interior Detailing: $100 - $250
+Exterior Detailing: $100 - $300
+Paint Correction: $400 - $1,000
+Ceramic Coating: $800 - $2,500
+Engine Detailing: $75 - $150
+Glass Treatment: $50 - $100
+Plastic and Rubber Restoration: $50 - $150
+Specialty Services:
+a. Pet hair removal: $25 - $75
+b. Tree sap and tar removal: $50 - $100
+c. Overspray and fallout removal: $100 - $300
+Fleet Services: Prices will vary based on the number of vehicles and frequency of service.
+Maintenance Packages: Prices will vary based on the chosen services and frequency of appointments. -->
+        </section>
+
+        <section id="booking">
+            <h2>Book an Appointment</h2>
+            <!--<script>
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://www.yocale.com/tentacle/tentacle.v1.0.0.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+    s.onload = s.onreadystatechange = function() {
+      if (!this.readyState || this.readyState === 'complete') {
+        Tentacle.run({
+          business: 'deejaymob',
+          type:'FLOATING',
+          label:'Book Appointment',
+          labelColor:'#FFFFFF',
+          iconColor:'#FFFFFF',
+          backgroundColor:'#536DFE',
+          disableIcon:false,
+          buttonStyles:{}
+        });
+      }
+    };
+  })();
+  </script> -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: <a href="tel:+14693891550">469-389-1550</a></p>
+            <p>Email: <a href="mailto:darr1@deejaysmobile.net">darr1@deejaysmobile.net</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Connect with us on social media:</p>
+        <ul>
+            <li><a href="https://www.facebook.com/DeeJays-Mobile-Detail" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/deejays_mobile" target="_blank">Instagram</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
+<section id="about">
+    <h2>About Us</h2>
+    <p>DeeJays Mobile Detail LLC is a professional car detailing service in Dallas, Texas. With years of experience, our team is dedicated to providing the highest quality car cleaning and detailing services right at your doorstep. Our mission is to make your car look its best while ensuring an exceptional customer experience.</p>
+</section>
+<section id="testimonials">
+    <h2>Testimonials</h2>
+    <div class="testimonial">
+        <p>"DeeJays Mobile Detail did an amazing job on my car. It looks brand new! The team was professional, punctual, and thorough. I highly recommend their services!"</p>
+        <span>- John Doe</span>
+    </div>
+    <!-- Add more testimonials here -->
+</section>
+<section id="specials">
+    <h2>Special Offers</h2>
+    <div class="offer">
+        <h3>First Time Client Deal</h3>
+        <p>Get 10% off on your first car detailing service with us. Use the promo code "WELCOME10" when booking your appointment.</p>
+    </div>
+    <div class="offer">
+        <h3>Referral Program</h3>
+        <p>Refer 2 friends and receive 15% off your next service. Make sure your referrals mention your name when booking their appointments.</p>
+    </div>
+</section>
+<section id="booking">
+    <h2>Book an Appointment</h2>
+    <div id="calendly-widget">
+        <!-- Replace the URL below with your own Calendly link -->
+        <iframe src="https://calendly.com/your_username/your_event_type" width="100%" height="800" frameborder="0"></iframe>
+    </div>
+</section>
+<section id="gallery">
+    <h2>Our Work</h2>
+    <div class="image-container">
+        <img src="image1.jpg" alt="Car detailing example 1">
+        <img src="image2.jpg" alt="Car detailing example 2">
+        <!-- Add more images here -->
+    </div>
+</section>
+<section id="blog">
+    <h2>Latest From Our Blog</h2>
+    <article>
+        <h3><a href="blog-post-1.html">Top 5 Tips for Maintaining Your Car's Interior</a></h3>
+        <p>Learn how to keep your car's interior clean and in great condition with these expert tips.</p>
+    </article>
+    <!-- Add more blog post summaries here -->
+</section>
+<section id="faq">
+    <h2>Frequently Asked Questions</h2>
+    <details>
+        <summary>How long does a car detailing service take?</summary>
+        <p>Our standard car detailing service takes approximately 2-3 hours, depending on the size and condition of the vehicle. Additional services may require more time.</p>
+    </details>
+    <!-- Add more questions and answers here -->
+</section>
+<section id="newsletter">
+    <h2>Subscribe to Our Newsletter</h2>
+    <form action="subscribe.php" method="post">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <button type="submit">Subscribe</button>
+    </form>
+</section>
+<section id="service-area">
+    <h2>Our Service Area</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3354.043301948639!2d-96.79789178536453!3d32.77618388097211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e992b4bed7b4b%3A0x1c3f8727ab7f9f9!2sDallas%2C%20TX!5e0!3m2!1sen!2sus!4v1629571882261!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</section>
+<section id="services">
+    <h2>Our Services</h2>
+    <div class="service">
+        <h3>Basic Detailing</h3>
+        <p>Includes exterior wash, interior vacuum, window cleaning, and tire shine.</p>
+        <span>Starting at $49.99</span>
+    </div>
+    <!-Interior:
+Vaccuming of seats, carpets, and floor mats
+Wiping down dashboard, console, and door panels
+Cleaning interior windows and mirrors
+Dusting air vents and other hard-to-reach areas
+Exterior:
+Hand wash and dry
+Cleaning wheels, tires, and wheel wells
+Application of tire dressing
+Cleaning exterior windows and mirrors
+Quick spray wax or paint sealant for added shine and protection>
+</section>
+<section id="payment">
+    <h2>Make a Payment</h2>
+    <p>Enter the amount below to pay for your detailing services securely online.</p>
+    <form action="payment.php" method="post">
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" name="amount" min="0" step="0.01" required>
+        <button type="submit">Proceed to Payment</button>
+    </form>
+</section>
+@media (max-width: 768px) {
+    //* Base styles (applied to all devices) */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+}
+
+/* Mobile styles (applied to devices with max-width: 768px) */
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .container {
+    padding: 0 10px;
+  }
+}/
+}
+<section id="contact">
+    <h2>Contact Us</h2>
+    <form action="contact.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+</section>
+<section id="video-testimonials">
+    <h2>Video Testimonials</h2>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+        <!-- Add more video testimonials here -->
+    </div>
+</section>
+<section id="before-after">
+    <h2>Before & After</h2>
+    <div class="before-after-container">
+        <figure>
+            <img src="before1.jpg" alt="Before detailing">
+            <figcaption>Before</figcaption>
+        </figure>
+        <figure>
+            <img src="after1.jpg" alt="After detailing">
+            <figcaption>After</figcaption>
+        </figure>
+    </div>
+    <!-- Add more before and after images here -->
+</section>
+<section id="promotions">
+    <h2>Current Promotions</h2>
+    <div class="promotion">
+        <h3>Summer Special</h3>
+        <p>Get 15% off our Premium Detailing package during the summer months. Book now and enjoy a clean, refreshed vehicle!</p>
+    </div>
+    <!-- Add more promotions here -->
+</section>
+<section id="team">
+    <h2>Meet Our Team</h2>
+    <div class="team-member">
+        <img src="team_member1.jpg" alt="Team member 1">
+        <h3>Jane Doe</h3>
+        <p>Lead Detailer</p>
+    </div>
+    <!-- Add more team members here -->
+</section>
+<section id="social-media-feed">
+    <h2>Connect With Us</h2>
+    <!-- Add your social media feed widgets here -->
+</section>
+<section id="resources">
+    <h2>Car Care Resources</h2>
+    <ul>
+        <li><a href="car-care-checklist.pdf">Download our Car Care Checklist</a></li>
+        <li><a href="cleaning-guide.html
